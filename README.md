@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander @AlexanderTemp
-- 👀 I’m interested in nothing, I have depression.
-- 🌱 I’m currently learning how to quit from my collegue.
+- 👀 I’m interested in web development and Data Science.
+- 🌱 I’m currently learning ReactJS, NextJS, Laravel, Codeigniter, Pytorch and Tensorflow.
 - 💞️ I’m looking to collaborate on something interesting.
 - 📫 How to reach me from my gmail aaalex2025@gmail.com
 
